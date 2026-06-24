@@ -1,6 +1,6 @@
 # Employee Attrition Prediction
 
-A Machine Learning project for predicting employee attrition using **XGBoost** with **Random Over Sampling** and **5-Fold Stratified Cross Validation** to address class imbalance and improve model performance.
+A Data Science project for predicting employee attrition using **XGBoost** with **Random Over Sampling** and **5-Fold Stratified Cross Validation** to address class imbalance and improve model performance.
 
 ## Features
 - Data preprocessing and encoding
